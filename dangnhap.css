@@ -1,0 +1,61 @@
+#frmdangky label{
+    color: darkslategray;
+    width: 120px;
+    display: inline block;
+	margin-left:35px;
+}
+#frmdangky .txt{
+    width: 450px;
+    padding: 8px;
+    border: 1px solid lightcoral;
+	margin: 10px 30px 3px 30px;
+}
+#frmdangky button{
+    width: 120px;
+    height: 40px;
+    margin: 5px;
+}
+#frmdangky{
+    border: 1px solid #dadce0;
+    border-radius: 5px;
+    background-color: white;
+    margin:20px;
+} 
+.Nut{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5px;
+    align-items: center;
+}
+html{
+    justify-content: center;
+    display: flex;
+}
+.btn{
+    background-color:#1a73e8; 
+    color:white;
+    border:none;
+    border-radius:3px;
+}   
+.form_message{
+    color: red;
+    font-size: 13px;
+    margin-left: 187px;
+}
+.btnView1{
+    width: 170px;
+    height: 40px;
+    background-color: #ccc;
+    color: #000;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px auto 0;
+}
+.btnView1:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: 0.4s;
+}
